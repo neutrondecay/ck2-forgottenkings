@@ -650,7 +650,7 @@
 	}
 }
 900038 = {
-	name = Elué
+	name = EluÃ©
 	female = yes
 	
 	religion = catholic
@@ -3127,7 +3127,7 @@
 	}
 }
 900171 = {
-	name = Secondlord
+	name = Unnamed # Six consecutive unnamed warlords start here
 
 	religion = catholic
 	culture = waterdhavian
@@ -3143,7 +3143,7 @@
 	}
 }
 900172 = {
-	name = Thirdlord
+	name = Unnamed
 
 	religion = catholic
 	culture = waterdhavian
@@ -3159,7 +3159,7 @@
 	}
 }
 900173 = {
-	name = Fourthlord
+	name = Unnamed
 
 	religion = catholic
 	culture = waterdhavian
@@ -3175,7 +3175,7 @@
 	}
 }
 900174 = {
-	name = Fifthlord
+	name = Unnamed
 
 	religion = catholic
 	culture = waterdhavian
@@ -3191,7 +3191,7 @@
 	}
 }
 900175 = {
-	name = Sixthlord
+	name = Unnamed
 
 	religion = catholic
 	culture = waterdhavian
@@ -3207,7 +3207,7 @@
 	}
 }
 900176 = {
-	name = Seventhlord
+	name = Unnamed # Last unnamed warlord
 
 	religion = catholic
 	culture = waterdhavian
